@@ -1,0 +1,7 @@
+Make sure you have openCV installed and configured. 
+make an opencv bash alias in the home directory.
+1)Open Terminal (Ctrl+Alt+T)
+$ opencv eigenfacerec.cpp
+$ ./eigenfacerec training.csv
+
+2)The url for test image can be changed in the the cpp file.I have taken it as url from test-set folder Given Along.
